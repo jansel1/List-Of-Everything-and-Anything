@@ -1,0 +1,100 @@
+Python
+Java
+C++
+JavaScript
+C#
+Ruby
+PHP
+Swift
+Go
+Rust
+Kotlin
+TypeScript
+Dart
+Perl
+R
+MATLAB
+Lua
+Haskell
+Scala
+Groovy
+Erlang
+Clojure
+F#
+Elixir
+VHDL
+Verilog
+COBOL
+Fortran
+Ada
+PL/SQL
+SQL
+Assembly Language (various architectures)
+HTML (markup language, but often used with JavaScript)
+CSS (for styling web pages)
+Shell scripting (e.g., Bash)
+Lisp
+Prolog
+Smalltalk
+Objective-C
+Perl 6 (Raku)
+Julia
+Crystal
+COOL (Constraint Object-Oriented Language)
+Forth
+APL
+Tcl (Tool Command Language)
+PowerShell
+Scheme
+ABAP (Advanced Business Application Programming)
+Io
+Dylan
+Oz
+Factor
+Eiffel
+ALGOL
+RPG (Report Program Generator)
+PL/I (Programming Language One)
+Euphoria
+Red
+Limbo
+Modula-2
+X10
+XSLT (Extensible Stylesheet Language Transformations)
+Verilog-AMS
+AutoIt
+Alice
+Chapel (Cascade High Productivity Language)
+J (programming language)
+K (programming language)
+Zsh (Z Shell)
+Elm
+COBOLScript
+D (programming language)
+Mercury
+Befunge
+Unlambda
+Elm
+Frink
+Redcode
+Seed7
+TACL
+Squirrel
+QML (Qt Meta-Object Language)
+Ring
+Kaya
+Hack
+Leda
+Cobra
+Chef
+Malbolge
+Whitespace
+Brainfuck
+Ruby on Rails (a web framework)
+Angular (a web framework)
+React (a JavaScript library)
+Vue.js (a JavaScript framework)
+Django (a Python web framework)
+Spring (a Java framework)
+.NET (a framework with multiple languages)
+Node.js (JavaScript runtime)

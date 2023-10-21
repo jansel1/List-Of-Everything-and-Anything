@@ -1,0 +1,68 @@
+English
+Spanish
+Hindi
+French
+German
+Russian
+Italian
+Portuguese
+Dutch
+Bengali
+Punjabi
+Urdu
+Persian (Farsi)
+Chinese (Mandarin)
+Cantonese
+Tibetan
+Arabic
+Hebrew
+Amharic
+Somali
+Swahili
+Yoruba
+Zulu
+Igbo
+Indonesian
+Malay
+Tagalog
+Hawaiian
+Maori
+Tamil
+Telugu
+Kannada
+Malayalam
+Turkish
+Korean
+Japanese
+Vietnamese
+Khmer
+Hungarian
+Finnish
+Estonian
+Hebrew
+Arabic
+Amharic
+Turkish
+Azerbaijani
+Uzbek
+Aymara
+Quechua
+Navajo
+Quechua
+Nahuatl
+Hiri Motu
+Enga
+Yimas
+Georgian
+Chechen
+Circassian
+Nahuatl
+Hopi
+Inuktitut
+Yupik
+Warlpiri
+Yolngu Matha
+Arrernte
+American Sign Language (ASL)
+British Sign Language (BSL)
+Auslan (Australian Sign Language)

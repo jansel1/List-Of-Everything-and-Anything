@@ -1,0 +1,300 @@
+New York City
+Tokyo
+London
+Paris
+Los Angeles
+Chicago
+Beijing
+Moscow
+Sydney
+Mumbai
+Rio de Janeiro
+Istanbul
+Cairo
+Toronto
+Buenos Aires
+Berlin
+Rome
+Madrid
+Shanghai
+Hong Kong
+Bangkok
+Dubai
+San Francisco
+Seoul
+Singapore
+Amsterdam
+Mexico City
+Cape Town
+Vancouver
+Barcelona
+San Diego
+Prague
+Vienna
+Athens
+Budapest
+Copenhagen
+Dublin
+Stockholm
+Lima
+Nairobi
+Oslo
+Warsaw
+Zurich
+New Delhi
+Jakarta
+Riyadh
+Johannesburg
+Kuala Lumpur
+Auckland
+Budapest
+Marrakech
+Vienna
+Melbourne
+Warsaw
+Lisbon
+Oslo
+Hamburg
+Munich
+Amsterdam
+Buenos Aires
+Beirut
+Casablanca
+Dakar
+Dhaka
+Hanoi
+Kathmandu
+Lahore
+Manila
+Reykjavik
+Taipei
+Ulaanbaatar
+Abidjan
+Amman
+Antananarivo
+Asunción
+Baku
+Bamako
+Bogotá
+Bratislava
+Conakry
+Freetown
+Georgetown
+Harare
+Kingston
+Lilongwe
+Ljubljana
+Lomé
+Luxembourg City
+Maseru
+Nicosia
+Ouagadougou
+Paramaribo
+Port-au-Prince
+Pristina
+Quito
+Riga
+San José
+San Salvador
+Santo Domingo
+Sarajevo
+Skopje
+Sofia
+Tallinn
+Tashkent
+Thimphu
+Vaduz
+Valletta
+Windhoek
+Yaoundé
+Zagreb
+Dar es Salaam
+Luanda
+Bishkek
+Belgrade
+Banjul
+Cotonou
+Algiers
+Ashgabat
+Bamako
+Beirut
+Bandar Seri Begawan
+Caracas
+Dushanbe
+Kathmandu
+Khartoum
+Manama
+Muscat
+N'Djamena
+Ouagadougou
+Paramaribo
+Port Moresby
+Riyadh
+Sanaa
+Tripoli
+Tashkent
+Vientiane
+Vilnius
+Yerevan
+Accra
+Addis Ababa
+Bamako
+Dakar
+Harare
+Kinshasa
+Maputo
+Niamey
+Abidjan
+Accra
+Algiers
+Baku
+Baghdad
+Beirut
+Lome
+Nicosia
+Port-au-Prince
+Tunis
+Yerevan
+Antananarivo
+Asuncion
+Bishkek
+Conakry
+Freetown
+Georgetown
+Kingston
+Lilongwe
+Maseru
+Ouagadougou
+Sarajevo
+Skopje
+Sofia
+Tallinn
+Tbilisi
+Vaduz
+Valletta
+Windhoek
+Yaoundé
+Port Louis
+Pristina
+Banjul
+Cotonou
+Dodoma
+Honiara
+Kingstown
+Libreville
+Majuro
+Mbabane
+Monrovia
+Moroni
+Nuku'alofa
+Palikir
+Port Vila
+Saipan
+Suva
+Tarawa
+Thimphu
+Ulaanbaatar
+Apia
+Bandar Seri Begawan
+Manama
+Tashkent
+Vaduz
+Valletta
+Windhoek
+Addis Ababa
+Algiers
+Asmara
+Asuncion
+Bandar Seri Begawan
+Basseterre
+Belmopan
+Bissau
+Caracas
+Castries
+Dili
+Doha
+Funafuti
+Gaborone
+Honiara
+Kingstown
+Libreville
+Majuro
+Malabo
+Mbabane
+Monrovia
+Moroni
+N'Djamena
+Nauru
+Niamey
+Nouakchott
+Nuku'alofa
+Palikir
+Port Vila
+Roseau
+Saipan
+Suva
+Tarawa
+The Valley
+Yamoussoukro
+Roseau
+Georgetown
+Banjul
+Montevideo
+Sucre
+Hanoi
+Sofia
+Nairobi
+Kigali
+Ljubljana
+Tallinn
+Vilnius
+Skopje
+Riga
+Zagreb
+Pristina
+Port of Spain
+Monrovia
+Maputo
+Niamey
+Kingstown
+Bissau
+Malabo
+Sao Tome
+Funafuti
+Gaborone
+Castries
+Port Louis
+Hanoi
+Nairobi
+Kigali
+Ljubljana
+Tallinn
+Vilnius
+Zagreb
+Riga
+Luxembourg City
+Podgorica
+Chisinau
+Skopje
+Lilongwe
+Maseru
+Ouagadougou
+Bangui
+Libreville
+Monrovia
+N'Djamena
+Niamey
+Nouakchott
+Bujumbura
+Dushanbe
+Suva
+Port of Spain
+Roseau
+Mbabane
+Manama
+Bandar Seri Begawan
+Apia
+Tarawa
+Palikir
+Port Vila
+Saipan

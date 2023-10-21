@@ -1,0 +1,100 @@
+Oak
+Maple
+Pine
+Birch
+Ash
+Cedar
+Spruce
+Willow
+Poplar
+Elm
+Beech
+Cherry
+Walnut
+Chestnut
+Redwood
+Douglas Fir
+Sycamore
+Larch
+Sequoia
+Fir
+Hemlock
+Yew
+Mahogany
+Teak
+Ebony
+Baobab
+Palm
+Eucalyptus
+Banyan
+Olive
+Ginkgo
+Dogwood
+Pecan
+Hickory
+Cottonwood
+Red Maple
+Norway Spruce
+Willow Oak
+Tulip Tree
+Sweetgum
+Sugar Maple
+Black Walnut
+Ponderosa Pine
+White Pine
+Black Cherry
+Red Oak
+White Oak
+Scots Pine
+Paper Birch
+Weeping Willow
+Silver Birch
+Eastern Red Cedar
+Japanese Maple
+Eastern Hemlock
+Eastern White Cedar
+Sitka Spruce
+Tamarind
+Cedar of Lebanon
+Red Pine
+Blue Spruce
+Japanese Black Pine
+Eastern Cottonwood
+Boxelder
+Black Locust
+Eastern Black Walnut
+Honey Locust
+Sassafras
+Catalpa
+Kentucky Coffeetree
+Black Oak
+Shagbark Hickory
+American Elm
+Sycamore Maple
+Horse Chestnut
+Hornbeam
+Silver Maple
+Bigleaf Maple
+Mountain Ash
+Serviceberry
+Red Mulberry
+Black Willow
+White Willow
+Bay Laurel
+Ponderosa Pine
+European Beech
+Norway Maple
+Chestnut Oak
+Eastern White Pine
+Red Spruce
+Giant Sequoia
+Coast Redwood
+Black Spruce
+Bald Cypress
+Swamp Cypress
+Coast Douglas Fir
+Noble Fir
+Cork Oak
+Chestnut Oak
+Shumard Oak
+Water Oak
